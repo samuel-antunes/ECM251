@@ -2,7 +2,7 @@
 Repositório de Linguagens de Programação 1
 
 # Desenvolvedor:
-## Samuel
+- Samuel
 
 # Linguagens e Frameworks:
 - Java
