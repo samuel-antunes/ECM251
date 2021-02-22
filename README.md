@@ -5,6 +5,6 @@ Repositório de Linguagens de Programação 1
 ## Samuel
 
 # Linguagens e Frameworks:
-Java
-Python
-C
+- Java
+- Python
+- C
